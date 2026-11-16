@@ -4,9 +4,9 @@ Cybersecurity Engineering master's student at Politecnico di Torino, with a
 bachelor's in Computer Engineering from Sharif University of Technology. I work
 on AI security, network security and low-level systems.
 
-Most recently I was an AI Intern at FOREO, where I built an LLM agent and
-red-teamed it against prompt injection. Before that I ran Linux hosting
-infrastructure at ParsPack.
+Recently I built an LLM agent, red-teamed it against prompt injection and
+defended it with a guard model. Before that I administered Linux servers and
+hosting infrastructure.
 
 ### Security
 
