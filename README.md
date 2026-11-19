@@ -12,7 +12,7 @@ hosting infrastructure.
 
 - [secure-messaging-client-side](https://github.com/Arad-Afzali/secure-messaging-client-side) / [server-side](https://github.com/Arad-Afzali/secure-messaging-server-side): end-to-end encrypted chat in Python with X25519, AES-256-GCM, signed keys and TLS
 - [DDoS-attacks-detection](https://github.com/Arad-Afzali/DDoS-attacks-detection): ML pipeline that detects and characterizes DDoS attacks (group project, ML4N course)
-- [AES-File-Encryptor-Decryptor](https://github.com/Arad-Afzali/AES-File-Encryptor-Decryptor) and [RSA-Encryption-Decryption](https://github.com/Arad-Afzali/RSA-Encryption-Decryption): small cryptography tools with a GUI
+- [AES-File-Encryptor-Decryptor](https://github.com/Arad-Afzali/AES-File-Encryptor-Decryptor) and [RSA-Encryption-Decryption](https://github.com/Arad-Afzali/RSA-Encryption-Decryption): an AES-256-GCM file and text encryptor with password support, and a hybrid RSA-OAEP encryption and signing tool, both with a Tkinter GUI
 
 ### Systems
 
